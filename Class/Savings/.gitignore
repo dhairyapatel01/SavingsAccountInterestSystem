@@ -1,0 +1,31 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# MacOS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Build directories
+out/
+target/
+build/
+
+# Maven / Gradle (if added later)
+*.war
+*.ear
+*.jar
+
+# Backup / temporary files
+*.tmp
+*.bak
+*.swp
+*~
